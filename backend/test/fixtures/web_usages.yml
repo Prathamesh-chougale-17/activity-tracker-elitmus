@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  email: MyString
+  domain: MyString
+  time_spent: 1
+  category: MyString
+  date_visited: 2024-05-13
+
+two:
+  email: MyString
+  domain: MyString
+  time_spent: 1
+  category: MyString
+  date_visited: 2024-05-13
