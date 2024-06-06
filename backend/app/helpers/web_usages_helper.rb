@@ -1,0 +1,2 @@
+module WebUsagesHelper
+end

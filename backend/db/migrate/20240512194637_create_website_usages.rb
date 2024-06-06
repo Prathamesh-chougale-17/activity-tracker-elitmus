@@ -4,7 +4,6 @@ class CreateWebsiteUsages < ActiveRecord::Migration[7.1]
       t.string :email
       t.string :domain
       t.integer :time_spent
-
       t.timestamps
     end
   end
